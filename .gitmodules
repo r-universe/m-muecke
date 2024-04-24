@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bbk"]
+	path = bbk
+	url = https://github.com/m-muecke/bbk
 [submodule "isocountry"]
 	path = isocountry
 	url = https://github.com/m-muecke/isocountry

@@ -5,6 +5,9 @@
 [submodule "bbk"]
 	path = bbk
 	url = https://github.com/m-muecke/bbk
+[submodule "ifo"]
+	path = ifo
+	url = https://github.com/m-muecke/ifo
 [submodule "isocountry"]
 	path = isocountry
 	url = https://github.com/m-muecke/isocountry

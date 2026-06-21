@@ -8,6 +8,9 @@
 [submodule "checkstring"]
 	path = checkstring
 	url = https://github.com/m-muecke/checkstring
+[submodule "gleifr"]
+	path = gleifr
+	url = https://github.com/m-muecke/gleifr
 [submodule "ifo"]
 	path = ifo
 	url = https://github.com/m-muecke/ifo

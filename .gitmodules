@@ -11,6 +11,9 @@
 [submodule "gleifr"]
 	path = gleifr
 	url = https://github.com/m-muecke/gleifr
+[submodule "gmeans"]
+	path = gmeans
+	url = https://github.com/m-muecke/gmeans
 [submodule "ifo"]
 	path = ifo
 	url = https://github.com/m-muecke/ifo
